@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c);
+
+body{
+  font-family: "M PLUS Rounded 1c";
+  background-color: #333;
+  color: #eee;
+}
+
+header{
+  padding: 8.0rem 0 0;
+}
+.container{
+  padding: 0;
+}
+h1{
+
+}
+#tmr{
+  display:block;
+  font-size:9rem;
+  text-shadow: rgba(125,125,125,0.75) 0.03rem 0.03rem 0.1rem;
+  margin-top: -1.0rem!important;
+  border-bottom: 1px dotted #456;
+}
+
+#tmr span{
+  background-color: #eee;
+  border-radius: 0.3rem;
+  font-size: 5.5rem;
+  margin: 2.8rem 2.0rem 0.5rem 3.5rem;
+  display: block;
+  color: #333;
+  padding: 0 0.3em;
+  width: 11rem;
+  float: left;
+}
+
+#cldr{
+  font-size:3.0rem;
+}
+
+#cldrDate{
+  background:#eee;
+  border-radius: 1.5rem;
+  color: #333;
+  font-size:1.3rem;
+  font-weight: bold;
+}
